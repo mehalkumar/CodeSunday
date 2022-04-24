@@ -1,1 +1,13 @@
 /* Add your styles here */
+
+.two-column {
+    background-color: red;
+    color: blueviolet;
+    border-color: yellow
+}
+
+.right {
+    width: 100px;
+    border-width: 50px;
+    border-color: black;
+}
